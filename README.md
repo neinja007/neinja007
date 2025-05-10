@@ -1,1 +1,1 @@
-I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://neinja.dev). I do find it hard to comprehend the collective ignorance humanity is ignorant of.
+I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://neinja.dev). I do find it hard to comprehend the collective ignorance humanity is ignorant of. The practices of secular Zen and Buddhism seem to be useful.
