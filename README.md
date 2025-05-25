@@ -13,3 +13,12 @@ I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://
 
 - [khev.at](https://khev.at). You can also visit the [official project page](https://neinja.dev/projects/khev.at-homepage).
 - [planinator.at](https://www.planinator.at). You can also visit the [official project page](https://neinja.dev/projects/planinator).
+
+# Other random links
+
+- [My Chess.com profile](https://chess.com/member/nein_ja_007)
+- [My Lichess profile](https://lichess.org/@/neinja007)
+- [My FIDE profile](https://ratings.fide.com/profile/530011027)
+- [My CV (in English)](https://neinja.dev/cv-en.pdf)
+- [My tech stack](https://neinja.dev/tech-stack)
+- [My projects](https://neinja.dev/projects)
