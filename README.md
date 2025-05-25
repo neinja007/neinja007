@@ -19,6 +19,6 @@ I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://
 - [My Chess.com profile](https://chess.com/member/nein_ja_007)
 - [My Lichess profile](https://lichess.org/@/neinja007)
 - [My FIDE profile](https://ratings.fide.com/profile/530011027)
-- [My CV (in English)](https://neinja.dev/cv-en.pdf)
+- [My CV as a PDF (in English)](https://neinja.dev/cv-en.pdf)
 - [My tech stack](https://neinja.dev/tech-stack)
 - [My projects](https://neinja.dev/projects)
