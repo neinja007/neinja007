@@ -9,7 +9,7 @@ I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://
 
 # Domains I do not own but use
 
-- [khev.at](https://khev.at). (Note: I am not currently using this domain yet. I will, however, in future.) You can also visit the [official project page](https://neinja.dev/projects/khev.at-homepage).
+- [khev.at](https://khev.at). (Note: I am **not using this domain yet**. I will, however, in future.) You can also visit the [official project page](https://neinja.dev/projects/khev.at-homepage).
 - [planinator.at](https://www.planinator.at). You can also visit the [official project page](https://neinja.dev/projects/planinator).
 
 # Other random links
