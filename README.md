@@ -1,4 +1,4 @@
-I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://neinja.dev).
+I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://neinja.dev). Project are on [neinja.dev/projects](https://neinja.dev/projects). Tech Stack on [neinja.dev/tech-stack](https://neinja.dev/tech-stack).
 
 # Domains I own
 
