@@ -1,4 +1,4 @@
-I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://neinja.dev). Project are on [neinja.dev/projects](https://neinja.dev/projects). Tech Stack on [neinja.dev/tech-stack](https://neinja.dev/tech-stack).
+My homepage is [neinja.dev](https://neinja.dev).
 
 # Domains I own
 
@@ -14,9 +14,4 @@ I am a hobbyist web-app software developer. My homepage is [neinja.dev](https://
 
 # Other random links
 
-- [My Chess.com profile](https://chess.com/member/nein_ja_007)
-- [My Lichess profile](https://lichess.org/@/neinja007)
-- [My FIDE profile](https://ratings.fide.com/profile/530011027)
-- [My CV as a PDF (in English)](https://neinja.dev/cv-en.pdf)
-- [My tech stack](https://neinja.dev/tech-stack)
-- [My projects](https://neinja.dev/projects)
+[My Lichess profile](https://lichess.org/@/neinja007), [My Chess.com profile](https://chess.com/member/nein_ja_007), [My FIDE profile](https://ratings.fide.com/profile/530011027), [My CV as a PDF (in English)](https://neinja.dev/cv-en.pdf), [My tech stack](https://neinja.dev/tech-stack), [My projects](https://neinja.dev/projects)
